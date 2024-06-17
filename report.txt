@@ -1,0 +1,35 @@
+Info: Procesando el símbolo 'MX3:'.
+Info: Procesando el símbolo 'Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm'.
+Info: Procesando el símbolo 'USB1:random-keyboard-parts:Molex-0548190589'.
+Info: Procesando el símbolo 'U1:Package_QFP:TQFP-44_10x10mm_P0.8mm'.
+Info: Procesando el símbolo 'SW1:random-keyboard-parts:Reset_Pretty'.
+Info: Procesando el símbolo 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'MX4:'.
+Info: Procesando el símbolo 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Procesando el símbolo 'MX2:'.
+Info: Procesando el símbolo 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Info: Procesando el símbolo 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Procesando el símbolo 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Procesando el símbolo 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Procesando el símbolo 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Procesando el símbolo 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Procesando el símbolo 'MX1:'.
+Info: Procesando el símbolo 'D1:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'D2:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'D3:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'D4:Diode_SMD:D_SOD-123'.
+Info: Procesando el símbolo 'F1:Fuse:Fuse_1206_3216Metric'.
+Aviso: No se ha encontrado la red del componente SW1 pad 5 (no hay un pin 5 en el símbolo).
+Aviso: No se ha encontrado la red del componente SW1 pad 6 (no hay un pin 6 en el símbolo).
+Aviso: No se ha encontrado la red del componente SW1 pad 3 (no hay un pin 3 en el símbolo).
+Aviso: No se ha encontrado la red del componente SW1 pad 4 (no hay un pin 4 en el símbolo).
+Error: No puede añadirse MX4 (no se ha asignado huella).
+Error: No puede añadirse MX3 (no se ha asignado huella).
+Error: No puede añadirse MX2 (no se ha asignado huella).
+Error: No puede añadirse MX1 (no se ha asignado huella).
+
+
+Info: Número de avisos: 4, errores: 4.
